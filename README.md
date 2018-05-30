@@ -21,7 +21,7 @@ $ npm i --save puppeteer
 
 ## Examples 
 
-Yout can run this with:
+You can run this with:
 
 ```
 $ npm index.js
