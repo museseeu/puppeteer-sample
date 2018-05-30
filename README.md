@@ -86,8 +86,7 @@ waitUntil: 'networkidle2'
 `networkidle2` - consider navigation to be finished when there are no more than 2 network connections for at least 500 ms.
  
 
-#### You can find more [puppeteer's API](https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md#)
-
+#### Yes, we finished to buildings and screenshot, and You can find more [puppeteer's API](https://github.com/GoogleChrome/puppeteer/blob/master/docs/api.md#) , join in testing process.
 
 ## References
 
